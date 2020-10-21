@@ -11,7 +11,7 @@ CREATE TABLE IF NOT EXISTS `<<table-prefix>>comments` (
   `comment_karma` int NOT NULL DEFAULT '0',
   `comment_approved` varchar(20) COLLATE utf8mb4_unicode_520_ci NOT NULL DEFAULT '1',
   `comment_agent` varchar(255) COLLATE utf8mb4_unicode_520_ci NOT NULL DEFAULT '',
-  `comment_type` varchar(20) COLLATE utf8mb4_unicode_520_ci NOT NULL DEFAULT 'comment',
+  `comment_type` varchar(20) COLLATE utf8mb4_unicode_520_ci NOT NULL DEFAULT '',
   `comment_parent` bigint unsigned NOT NULL DEFAULT '0',
   `user_id` bigint unsigned NOT NULL DEFAULT '0',
   PRIMARY KEY (`comment_ID`),
