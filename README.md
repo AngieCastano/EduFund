@@ -21,9 +21,9 @@ Angie Castaño:
        1634@holbertonschool.com, angieximena98@gmail.com
 
 Daniel Cumaco:
-       https://github.com/Wetgou
-       https://www.linkedin.com/in/daniel-alejandro-cumaco-cumaco-b76472192/
-       https://twitter.com/Wetgou
+       https://github.com/NoDanCoder
+       https://www.linkedin.com/in/DanCoder/
+       https://twitter.com/NoDanCoder
        1249@holbertonschool.com
 
 Carlos Lemus:
