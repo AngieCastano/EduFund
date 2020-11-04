@@ -33,3 +33,5 @@ Carlos Lemus:
        1188@holbertonschool.com
 
 ```
+## Disclaimer
+Because of security reasons, there are many files not uploaded to this repository so it's posible that when you install it, it doesn't work as intended.
