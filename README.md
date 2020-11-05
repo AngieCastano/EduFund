@@ -99,3 +99,14 @@ Also the main problem that people have when they post a crowdfunding project is 
 
 So we decided to create a social network platform to let people be uploading content about what they are using the money for in their projects, so donors are aware of it too and they become incentivized to donate more.
 
+Our most difficult technical challenge was creating the backup because at the beginning we weren’t creating a backup, and in one moment everything broke up, nothing was working, so we had to search for a backup process even if our project was very small, when we created the backup feature, the backup was kept inside the whole code as if it were part of the project, and when it automatically saved, also saved the backup, so the second backup had the first backup, and the third back up had the second and first backup, an so on. It was a big problem because our project was very heavy and it was possible that at a future moment it were not possible to save more backups.  Then we searched how to omit saving the backup files in every backup, of course it was from an advanced version, fortunately we didn’t have a new problem concerning this accumulative backups.
+
+
+I learned too many things in this project:
+Wordpress is more robust than I thought, and its community so wide that it’s a new universe.
+
+Knowing how to use Vi is very important because there are some files that can not be changed with emacs, only with Vi, also Vi is the default editor in every server and if I only need to use a  server once, downloading Emacs just for a single use is not justified.
+
+I learned how to use Bitcoin Cash, and a multifirm Wallet, also this new universe of Cryptocoins.
+
+When I start to learn a topic very well, I start to really enjoy it, so it was very satisfying to understand how this project works, supported by my peers. I also love to work in a team, have a brainstorming,  discuss new ideas, and know somebody else’s opinion. In this project we debated, argued, and laughed, it was a really enreaching team project.
