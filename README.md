@@ -111,4 +111,3 @@ I learned how to use Bitcoin Cash, and a multifirm Wallet, also this new univers
 
 When I start to learn a topic very well, I start to really enjoy it, so it was very satisfying to understand how this project works, supported by my peers. I also love to work in a team, have a brainstorming,  discuss new ideas, and know somebody else’s opinion. In this project we debated, argued, and laughed, it was a really enreaching team project.
 
-![](crowdfunding gif.gif)
