@@ -88,3 +88,14 @@ Nicolaz Perez was allways there for our help.
 ```
        All rights reserved
 ```
+
+## Our Story
+
+Right now it’s very sad to know that alñmost 25% of the students have had to desert their studies because of the financial crisis caused by the pandemic, many students have tried asking for financial support with bank credits, parents financial cushion, or savings.
+
+Many people have wanted to come to the crowdfunding aid but normally this kind of projects are only about a new entrepreneurship, new start up or social help, they aren’t about helping others to pay their personal expenses.
+
+Also the main problem that people have when they post a crowdfunding project is that they themselves have to create their own marketing in  different social media platforms different from the crowdfunding platform. Another problem is that when somebody donates, they don’t know if the money was really used for what it was promised, and they don’t even know what the advances of the program are. For example, once I decided to donate to a very interesting initiative, okay, everything went fine, I paid, but the only thing I received was the payment confirmation, it was very sad because I really wanted to know more about the project or the people managing the project. As the days went by, I expected to have the notification about what had happened with that project, it never happened, the only thing I was left with was that when reloading the project page, the page was as static as the first time except that more people had donated.This was disappointing, the most I got to know was that they reached their final goal without knowing if the project was carried out.
+
+So we decided to create a social network platform to let people be uploading content about what they are using the money for in their projects, so donors are aware of it too and they become incentivized to donate more.
+
